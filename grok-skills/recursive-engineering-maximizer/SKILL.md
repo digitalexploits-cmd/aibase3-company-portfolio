@@ -1,0 +1,1 @@
+$(cat /home/workdir/.grok/skills/recursive-engineering-maximizer/SKILL.md)
