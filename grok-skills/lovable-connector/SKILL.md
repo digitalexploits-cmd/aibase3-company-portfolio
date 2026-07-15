@@ -1,1 +1,0 @@
-$(cat /home/workdir/.grok/skills/lovable-connector/SKILL.md)
