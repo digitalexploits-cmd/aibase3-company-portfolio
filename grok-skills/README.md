@@ -1,1 +1,0 @@
-$(cat /tmp/grok-skills-readme.md)
